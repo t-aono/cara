@@ -5,7 +5,7 @@
   "version": "0.2.15",
   "author": "LekoArts",
   "license": "0BSD",
-  "starter-name": "gatsby-portfolio",
+  "starter-name": "cara",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
